@@ -1,6 +1,6 @@
 = hash_parser
 
-Description goes here.
+Parse a String into a Hash without using eval.
 
 == Note on Patches/Pull Requests
  
